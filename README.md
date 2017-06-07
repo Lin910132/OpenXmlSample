@@ -9,4 +9,6 @@ DOM approach is type safe, you can have a acurate edit on the sheet, row and cel
 SAX approach is best for adding tons of data and creating new Excel File. However, it's working directly with XML for the Excel file,
 which means it's not type safe, and has strict format rules.
 
+There is also a tool for copying a template so that the format matches XML
+
 I've implemented both approaches, mostly in SAX, to make manipulating Excel files much easier.

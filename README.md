@@ -1,4 +1,6 @@
-# OpenXmlSample
+# SampleCodeForXmlUtility
+
+OpenXml
 Sample code for utilizing OpenXml library to edit/create excel files with(out) template
 
 There are two versions.
@@ -11,4 +13,5 @@ which means it's not type safe, and has strict format rules.
 
 There is also a tool for copying a template so that the format matches XML
 
-I've implemented both approaches, mostly in SAX, to make manipulating Excel files much easier.
+XmlDocument
+
